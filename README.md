@@ -10,7 +10,7 @@
 - RESTful API服务
 
 ## 快速开始
-
+git clone https://github.com/delusion22/xiaozhi_independent_demo.git
 
 # 本地运行
 pip install -r voice-core/requirements.txt
